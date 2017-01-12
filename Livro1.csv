@@ -1,0 +1,46 @@
+Factor;Hazard;Lmin;Lml;Lmax;Emin;Eml;Emax;Severity;Duration
+Colostrum;Quantity ;0.4;0.6;0.8;0.1;0.2;0.3;Medium;Short
+Colostrum;Quality;0.4;0.6;0.8;0.1;0.2;0.3;High;Short
+Colostrum;FPT;0.3;0.5;0.7;0.2;0.3;0.4;High;Short
+Colostrum;Contaminated;0.2;0.3;0.4;0.1;0.2;0.3;High;Short
+ISH;Individual pens;0.1;0.3;0.5;0.3;0.7;0.9;Low;Medium
+ISH;Solid panels between calves;0.05;0.2;0.3;0.3;0.7;0.9;Low;Medium
+ISH;High Ammonia levels;0.2;0.5;0.8;0.5;0.7;0.9;Medium;Medium
+ISH;High CO2 levels;0.2;0.3;0.4;0.3;0.5;0.6;Medium;Medium
+ISH;Nesting Score;0.4;0.5;0.6;0.5;0.6;0.7;Medium;Medium
+IGH;Ammonia levels high;0.2;0.5;0.8;0.5;0.7;0.9;Medium;Medium
+IGH;High CO2 levels;0.2;0.3;0.4;0.3;0.5;0.6;Medium;Medium
+IGH;Air space (ventilation);0.15;0.2;0.25;0.15;0.25;0.35;Medium;Medium
+IGH;Air space (no ventilation);0.2;0.3;0.4;0.25;0.35;0.5;Medium;Medium
+OGH;Wet lying area;0.2;0.3;0.4;0.3;0.4;0.5;Low;Long
+OGH;Lack of shelter from precipitation;0.2;0.25;0.3;0.3;0.4;0.5;Low;Long
+OGH;Lack of shelter from wind;0.2;0.25;0.3;0.3;0.4;0.5;Low;Long
+Management;Routine antibiotic in milk;0.2;0.3;0.4;0.3;0.5;0.6;Medium;Long
+Management;Poor hygene;0.1;0.15;0.2;0.1;0.15;0.2;Medium;Medium
+Management;Navel treatment;0.2;0.3;0.4;0.3;0.4;0.5;Medium;Medium
+Management;No vaccination ;0.05;0.1;0.15;0.05;0.1;0.15;Medium;Medium
+Management;Vaccination entering feedlot;0.10;0.15;0.2;0.1;0.15;0.2;Medium;Medium
+Management;Delay in diagnosis (metafilaxis);0.1;0.15;0.2;0.1;0.15;0.2;Medium;Medium
+Management;Delay in diagnosis (no metafilaxis);0.05;0.1;0.15;0.05;0.1;0.15;High;Medium
+Age;Incidence < 2 w;0.2;0.3;0.4;0.05;0.077;0.1;Medium;Medium
+Age;Incidence 2 – 5 w;0.25;0.35;0.45;0.05;0.08;0.1;Medium;Medium
+Age;Incidence 5 w – 3 m;0.3;0.4;0.5;0.05;0.095;0.15;Medium;Medium
+Age;Mortality < 2 w;0.1;0.2;0.3;0.01;0.016;0.05;High;Medium
+Age;Mortality 2 – 5 w;0.05;0.1;0.2;0.0;0.005;0.02;High;Medium
+Age;Mortality 5 w – 3 m;0.1;0.2;0.3;0.01;0.012;0.02;High;Medium
+Age;Arrival;0.05;0.1;0.15;0.05;0.1;0.15;Low;Short
+Birth;Winter vs Summer;0.0;0.1;0.15;0.3;0.5;0.6;Low;Short
+Infectious;Diarrhea;0.3;0.4;0.5;0.4;0.5;0.6;High;Medium
+Infectious;Parainfluenza 3;0.5;0.6;0.7;0.5;0.6;0.7;High;Medium
+Infectious;BRSV;0.5;0.6;0.7;0.5;0.6;0.7;High;Medium
+Infectious;M. haemolytica;0.6;0.7;0.8;0.6;0.7;0.8;High;Medium
+Infectious;BDV;0.45;0.55;0.65;0.45;0.55;0.65;High;Medium
+Infectious;IBRV;0.45;0.55;0.65;0.45;0.55;0.65;High;Medium
+Infectious;M. dispar;0.5;0.6;0.7;0.4;0.5;0.6;Medium;Medium
+Infectious;M. bovis;0.3;0.4;0.5;0.6;0.7;0.8;High;Medium
+Infectious;H. somnis;0.5;0.6;0.7;0.6;0.7;0.8;High;Medium
+Infectious;BRSV > 3 m, IgG ;0.7;0.8;0.9;0.55;0.65;0.75;Medium;Long
+Infectious;BRSV > 3 m, IgM ;0.65;0.75;0.85;0.55;0.65;0.75;Medium;Long
+Infectious;BRSV < 3 m, IgG ;0.05;0.1;0.15;0.55;0.65;0.75;Medium;Medium
+Infectious;BRSV < 3 m, IgM ;0.4;0.5;0.7;0.55;0.65;0.75;Medium;Medium
+Genetics;Holstein vs Crossbred;0.3;0.4;0.5;0.6;0.7;0.8;Low;Long

@@ -1,0 +1,226 @@
+---
+title: "Risk Assessement BRD"
+author: "Carolina Frias"
+date: "Tuesday, March 03, 2015"
+output:
+  pdf_document: default
+  word_document: default
+---
+#Risk Assessement on BRD influence factors
+
+##Introduction
+This risk assessment is refers to the risk of compromising welfare in calves by the development of Bovine Respiratory Disease (BRD) in different types of housing. 
+
+We consider that:
+- BRD is a multifactorial disease, frequent in calves;
+- Microorganisms responsible for BRD are microflora from the posterior respiratory tract and some virus; 
+- The animal gets sick when it faces adverse weather conditions or stressful procedures;
+- Proper housing should allow calves to express their natural behavior and maintain their health status;
+- Housing is an important factor when it comes to protect animals against bad weather conditions. 
+
+###Bovine Respiratory Disease
+BRD is a multifactorial disease, frequent in calves. It depends on a complex interaction between host, environment, bacterial infections and viruses (Leaflet, 1999). Pneumonia (a form of BRD) has high rates of incidence and mortality. A study performed at Cornel University calculated the incidence of BRD in Ithaca as 25.6% (Virtala et al, 1996). In a study performed in Canada the incidence of BRD among calf herds was 7.7% before 2 weeks of age, 8.0% between 2 and 5 weeks of age and 9.5% between 5 weeks and 3 months of age (M. C. Windeyer et at, 2012). In the same study, mortality rates among calves by BRD were 1.6% before 2 weeks of age, 0.5% between 2 and 5 weeks of age and 1.2% between 5 weeks and 3 months of age (M. C. Windeyer et at, 2012). Another investigator from Iowa calculated mortality rates among calves as 5.9% when diagnosed and treated and 0.35% when not diagnosed (Leaflet, 1999). Among European countries, the incidence of BRD in Belgium was calculated as 17.2 % (Pardon et al, 2013). In the same study, 27.1% of the calves died of pneumonia.
+
+Among the infectious causes are Manheimia haemolityca, Histophilus somni, Pasteurella multocida, Mycoplasma bovis, Bovine Infeccious Rinothraqueitis Virus (IBR), Bovine Respiratory Sincicial Virus (BRSV) and Parainfluenza III Virus (PI3). The bacterias referred are microflora from the posterior respiratory tract. A study evaluated seropositive titers for several bacteria, in calves with 2 weeks of age and results showed that animals had a proportion of 94% positive titers to PI3 and BRSV, 73% to Manheimia heamolityca, 68% do Bovine Diarrhea Virus, 67% of IBR, 44% of Histophilus somni, 46% OF Mycoplasma dispar and 21% of Mycoplasma bovis (J. Van Donkersgoed et al, 1993). An investigation performed in The Netherlands focused on BRSV and the results showed that, in the population studied, calves with less than 3 months of age had 80% increased titers in IgG and 77% in IgM and calves with more than 3 months of age had 10% increased titers in IgG and 51% in IgM. 
+
+Clinical signs in animals with BRD are often fever, nasal  or ocular serous discharge and depression or prostration (Lorenz et al, 2011). At more advance stages of the disease, calves could have dyspnea, ortopneic position, exophthalmia, ptyalism, tympanism, frequent and painfull cough (Stilwell). Changes in respiratory sounds not always are present. Infections caused by M. haemolityca and H. somni (also called Transport Fever in beef calves) are characterized by subcutaneous enfisema of the cervical and dorsal regions and can be cause of sudden death. Infections by M. bovis are associated with arthritis. 
+Increased respiratory sounds is associated with BVDV infection (OR=3.39, P<0.05) and draught (OR=3.7, P<0.02) (Lundborg et al, 2004). 
+A study published in 2014, develop a new novel clinical scoring system for on-farm diagnosis in pre-weaned calves. The investigators propose that the scoring system relies on coughing, nasal discharge, ocular discharge, ear and head carriage, fever and respiratory quality. The scoring system uses statistical calculations and therefore reduces subjective evaluations of the animals' health status (Love et al, 2014).
+
+As BRD is a multifactorial complex, the animal gets sick when it faces adverse weather conditions or stressful procedures (e.g. dehornig, transport or feed change). These situations pose a threat to the immune system of the animal and it became more susceptible to bacterial and viral infections. For example, calves with diarrhea have higher risks of develop BRD (OR=2.8, Cl=2.0 - 3.9, P<0.001) (Pardon et al, 2013). In this study is also showed that age at arrival, gender and breed have no association with the risk of develop BRD. Althougth a research conducted some years early in Canada showed that Holstein calves hava an 4.11 times increased risk of develop BRD than crossbreed animals ( J. Van Donkersgoed et al, 1993). Several studies also showed that newborn calves with failure of passive transfer os colostral antibodies have an increased risk of develop BRD (Kimman et al, 1988; Donkersgoed et al, 1993; Donovan et al, 1998; Virtala et al, 1999). Another Canadian study (Waltner-Toews et al, 1986) about risk factors of BRD presented results that herd size has an OR = 1.02, in winter, and OR = 1.01, in summer. It also showed that navel treatment has a positive effect on calves with BRD (OR = 2.94) and preventive medication showed an OR = 0.46, at herd level, and OR = 0.40, al calf level.  Colostrum feeding has also a positive effect (OR = 3.31).
+
+The treatment of this disease include antibiotics (Heins et al, 2014, AINES and fluidotherapy with broncodilatators and mucolitics in severe cases).
+Prevention is essential and should include metaphilaxis, adequate ventilation of the barns, colostrum of good quality and vaccination. 
+
+Some of the mortality and incidence rates presented below pose a problem to maintenance of animal welfare in farms, as their unable to express natural behavior, feed and drink. In relation to proper housing, a study showed that mortality from BRD increased in animals housed in groups outdoor vs animals housed single or in groups indoor (Peters, 1986). Also animals housed, in group, with calves with previous history of BRD, have an OR = 3.89 (A. Bach et al, 2011).  The analysis of the results from this clinical studies show us that proper housing is crucial in the development of Bovine Respiratory Disease. 
+
+When housed calves should be able to express their natural behavior, even when confined, so they can enhance their performance. To allow that to happen, housing of calves should:
+- Be independent from de housing of mature cows;
+- Allow the maintenance of optimum temperature and relative humidity;
+- Protect from storms and bad weather conditions;
+- Allow adequate drainage of water and manure;
+- Allow easy access to drinking water and feed.
+
+Penn State recommends that calves should be divided into different types of housing, according to their age: 
+- 0 to 2 months, in single pen or stall;
+- 2 to 4 months, in weaning pen with three to five calves of the same age;
+- 4 to 8 months, in a variety of housing choices, such as pen-stalls or straw yards.
+
+Nowadays, farmers use two main types of housing for calves: individual pen or stalls and barns (with or without access outside). 
+
+ It?s important to state that animals, housing in group or individually, should have enough space to lay down with their back limbs stretched and have some visual contact with the other calves. This means that cubicles or pens should have, at list, 1.5 m x 0.75 m (http://www.dayryco.org). There should be a space destined to bedding. There's a variety of materials, like straw or wood, but the important thing is that the animal have a dry and clean place do lie down and "nest" (Lago et al, 2006).
+ 
+Ventilation is a very crucial aspect of housing, mainly in indoor housing. Good air renewal should be guaranteed in order to maintain adequate temperature, relative humidity and gases, dust and airborne bacteria removal. Airborne bacteria could be a stress factor that increase the risk of BRD (Lago et al, 2006), as such, housing design should prevent the development of those microorganisms. When the farmer choose to house his calves in pens there are factors that can reduce de airborne bacteria counts: less solid sides surrounding the pen, larger area in the pen, lower pen temperature and non-straw bedding materials (Nordlund, 2004 and Lago et al, 2006). Naturally ventilated barns have the least percentages of airborne bacteria and fungi (Blom et al, 1984), although, when that's not possible it is recommended that a positive pressure ventilation system should be installed (Nordlund, 2004).  Pens should also avoid the drafty conditions, as the animals are more likely to exhibit moderate to severe increased respiratory sounds (Lundborg et al, 2005) and therefore other signs associated with BRD. 
+The risk of respiratory disease increased with ammonia values around 6 ppm (OR=0.42, P<0.05) (Lundborg et al, 2004).
+
+Ventilation is also very important to avoid extreme temperatures and relative humidity. In indoor and proper ventilated barn, calves enjoyed warmer temperatures and lower relative humidity than those housed in outdoor hutches (Jorgenson et al, ????). 
+
+In relation with indoor and outdoor housing, recent studies show that calves properly housed outdoor have less incidence of respiratory diseases than calves housed indoors (Waltner-Toews et al, 1986; W?jcik et al, 2013). In an observational study, mortality rates were higher in calves housed outdoor, compared with those housed indoors. Although the incidence of pneumonia wasn?t different between these two groups  (Peters, 1986).
+Also, calves with history of BRD are more likely to relapse after grouping and morbidity levels due to BRD are higher when calves with and without history of BRD are grouped together (Bach et al, 2011).
+
+##Data Analysis
+The research allowed us to produce several ghraphics that show the influence of housing, season of birth, colostrum feeding, manegement and genetics.
+
+```{r, echo=FALSE}
+dados<-read.csv("C:/Users/Carolina/Desktop/RStudio/R/Livro1.csv",sep=";" )
+```
+```{r, echo=FALSE, warning=FALSE}
+library(mc2d)
+```
+```{r, echo=FALSE}
+calcula<-function(niter,Lmin,Lml,Lmax,Emin,Eml,Emax){
+        a<-rpert(niter,Lmin,Lml,Lmax)
+        b<-rpert(niter,Emin,Eml,Emax)
+        c<-a*b
+        return(c)
+}
+```
+```{r, echo=FALSE}
+for (m in 1:nrow(dados)){ 
+        dados$Pml[m]<-quantile(calcula(10000,dados$Lmin[m],dados$Lml[m],dados$Lmax[m],dados$Emin[m],dados$Eml[m],dados$Emax[m]),probs=.5)
+        dados$Pmin[m]<-quantile(calcula(10000,dados$Lmin[m],dados$Lml[m],dados$Lmax[m],dados$Emin[m],dados$Eml[m],dados$Emax[m]),probs=.05)
+        dados$Pmax[m]<-quantile(calcula(10000,dados$Lmin[m],dados$Lml[m],dados$Lmax[m],dados$Emin[m],dados$Eml[m],dados$Emax[m]),probs=.95)
+}
+```
+```{r, echo=FALSE}
+dados$Magnitude[dados$Severity=="High" & dados$Duration=="Long"]<-"Very High"
+dados$Magnitude[dados$Severity=="High" & dados$Duration=="Medium"]<-"High"
+dados$Magnitude[dados$Severity=="High" & dados$Duration=="Short"]<-"Medium"
+dados$Magnitude[dados$Severity=="Medium" & dados$Duration=="Long"]<-"High"
+dados$Magnitude[dados$Severity=="Medium" & dados$Duration=="Medium"]<-"Medium"
+dados$Magnitude[dados$Severity=="Medium" & dados$Duration=="Short"]<-"Low"
+dados$Magnitude[dados$Severity=="Low" & dados$Duration=="Long"]<-"Medium"
+dados$Magnitude[dados$Severity=="Low" & dados$Duration=="Medium"]<-"Low"
+dados$Magnitude[dados$Severity=="Low" & dados$Duration=="Short"]<-"Very Low"
+```
+```{r, echo=FALSE, warning=FALSE}
+library(ggplot2)
+```
+```{r, echo=FALSE}
+colostro<-subset(dados, Factor=="Colostrum")
+ish<-subset(dados, Factor=="ISH")
+igh<-subset(dados, Factor=="IGH")
+ogh<-subset(dados, Factor=="OGH")
+maneio<-subset(dados, Factor=="Manegement")
+idade<-subset(dados, Factor=="Age")
+nasc<-subset(dados, Factor=="Birth")
+infec<-subset(dados, Factor=="Infectious")
+gen<-subset(dados, Factor=="Genetics")
+```
+```{r, echo=FALSE}
+##influence of colostrum
+ggplot(colostro, aes(x=Hazard, y=Pml, fill=Magnitude))+
+        geom_bar(stat="identity")+
+        geom_errorbar(aes(ymax=Pmax, ymin=Pmin), position="dodge")+
+        scale_fill_manual(breaks=c("Medium","Low"), values=c("darkgreen", "orange"))+
+        coord_cartesian(ylim=c(0.001, 0.7))+
+        theme(axis.title.y=element_blank())+
+        ylab("Probability")+
+        guides(fill=guide_legend(title="Magnitude"))+
+        ggtitle("Influence of Colostrum")+
+        coord_flip()
+```
+```{r, echo=FALSE}
+##Influence of Indoor single housing
+ggplot(ish, aes(x=Hazard, y=Pml, fill=Magnitude))+
+        geom_bar(stat="identity")+
+        geom_errorbar(aes(ymax=Pmax, ymin=Pmin), position="dodge")+
+        scale_fill_manual(breaks=c("Medium","Low"), values=c("darkgreen", "orange"))+
+        coord_cartesian(ylim=c(0.001, 0.7))+
+        theme(axis.title.y=element_blank())+
+        ylab("Probability")+
+        guides(fill=guide_legend(title="Magnitude"))+
+        ggtitle("Influence of Indoor single housing")+
+        coord_flip()
+```
+```{r, echo=FALSE}
+##influence of indoor group housing
+ggplot(igh, aes(x=Hazard, y=Pml, fill=Magnitude))+
+        geom_bar(stat="identity")+
+        geom_errorbar(aes(ymax=Pmax, ymin=Pmin), position="dodge")+
+        scale_fill_manual(breaks=c("Medium"), values=c("orange"))+
+        coord_cartesian(ylim=c(0.001, 0.7))+
+        theme(axis.title.y=element_blank())+
+        ylab("Probability")+
+        guides(fill=guide_legend(title="Magnitude"))+
+        ggtitle("Influence of Indoor group housing")+
+        coord_flip()
+```
+```{r, echo=FALSE}
+##Influence of outdoor group housing
+ggplot(ogh, aes(x=Hazard, y=Pml, fill=Magnitude))+
+        geom_bar(stat="identity", width=.4)+
+        geom_errorbar(aes(ymax=Pmax, ymin=Pmin), position="dodge", width=.4)+
+        scale_fill_manual(breaks=c("Medium"), values=c("orange"))+
+        coord_cartesian(ylim=c(0.001, 0.7))+
+        theme(axis.title.y=element_blank())+
+        ylab("Probability")+
+        guides(fill=guide_legend(title="Magnitude"))+
+        ggtitle("Influence of Outdoor group housing")+
+        coord_flip()
+```
+```{r, echo=FALSE}
+##Influence of season of birth
+ggplot(nasc, aes(x=Hazard, y=Pml, fill=Magnitude))+
+        geom_bar(width=.4, stat="identity")+
+        geom_errorbar(aes(ymax=Pmax, ymin=Pmin), position="dodge", width=.4)+
+        scale_fill_manual(breaks=c("Very Low"), values=c("lightgreen"))+
+        coord_cartesian(ylim=c(0.001, 0.7))+
+        theme(axis.title.y=element_blank())+
+        ylab("Probability")+
+        guides(fill=guide_legend(title="Magnitude"))+
+        coord_flip()+
+        ggtitle("Influence of the Season of Birth")
+```
+```{r, echo=FALSE}
+##Influence of infectious agents
+ggplot(infec, aes(x=Hazard, y=Pml, fill=Magnitude))+
+        geom_bar(stat="identity")+
+        geom_errorbar(aes(ymax=Pmax, ymin=Pmin), position="dodge")+
+        scale_fill_manual(breaks=c("High","Medium"), values=c("red", "orange"))+
+        coord_cartesian(ylim=c(0.001, 0.7))+
+        ylab("Probability")+
+        guides(fill=guide_legend(title="Magnitude"))+
+        theme(axis.title.y=element_blank())+
+        ggtitle("Influence of infectious agents")+
+        coord_flip()
+```
+```{r, echo=FALSE}
+##Influence of Genetics
+ggplot(gen, aes(x=Hazard, y=Pml, fill=Magnitude))+
+        geom_bar(width=.4, stat="identity")+
+        geom_errorbar(aes(ymax=Pmax, ymin=Pmin), position="dodge", width=.4)+
+        scale_fill_manual(breaks=c("Medium"), values=c("orange"))+
+        coord_cartesian(ylim=c(0.001, 0.7))+
+        ylab("Probability")+
+        guides(fill=guide_legend(title="Magnitude"))+
+        theme(axis.title.y = element_blank())+
+        ggtitle("Influence of Genetics")+
+        coord_flip()
+```
+```{r, echo=FALSE}
+##Influence of *Age*
+ggplot(idade, aes(x=Hazard, y=Pml, fill=Magnitude))+
+        geom_bar(stat="identity")+
+        geom_errorbar(aes(ymax=Pmax, ymin=Pmin), position="dodge")+
+        scale_fill_manual(breaks=c("High","Medium", "Very Low"), values=c("red", "orange", "lightgreen"))+
+        coord_cartesian(ylim=c(0.001, 0.7))+
+        theme(axis.title.y=element_blank())+
+        ylab("Probability")+
+        guides(fill=guide_legend(title="Magnitude"))+
+        ggtitle("Influence of *Age*")+
+        coord_flip()
+```
+```{r, echo=FALSE}
+##Influence of manegement practices
+ggplot(maneio, aes(x=Hazard, y=Pml, fill=Magnitude))+
+        geom_bar(stat="identity")+
+        geom_errorbar(aes(ymax=Pmax, ymin=Pmin), position="dodge")+
+        scale_fill_manual(breaks=c("High","Medium"), values=c("red", "orange"))+
+        coord_cartesian(ylim=c(0.001, 0.7))+
+        theme(axis.title.y=element_blank())+
+        ylab("Probability")+
+        guides(fill=guide_legend(title="Magnitude"))+
+        ggtitle("Influence of manegement practices")+
+        coord_flip()
+```

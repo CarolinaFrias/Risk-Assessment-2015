@@ -1,0 +1,34 @@
+---
+title: "Dados - Análise de Risco"
+author: "Carolina Frias"
+date: "Tuesday, February 10, 2015"
+output: word_document
+---
+
+```{r}
+dados<-read.csv("C:/Users/Carolina/Desktop/R/Livro1.csv",sep=";" )
+library(mc2d)
+calcula<-function(niter,Lmin,Lml,Lmax,Emin,Eml,Emax){
+        a<-rpert(niter,Lmin,Lml,Lmax)
+        b<-rpert(niter,Emin,Eml,Emax)
+        c<-a*b
+        return(c)
+}
+
+for (m in 1:nrow(dados)){ 
+        print(m)
+        dados$Pml[m]<-quantile(calcula(10000,dados$Lmin[m],dados$Lml[m],dados$Lmax[m],dados$Emin[m],dados$Eml[m],dados$Emax[m]),probs=.5)
+        dados$Pmin[m]<-quantile(calcula(10000,dados$Lmin[m],dados$Lml[m],dados$Lmax[m],dados$Emin[m],dados$Eml[m],dados$Emax[m]),probs=.05)
+        dados$Pmax[m]<-quantile(calcula(10000,dados$Lmin[m],dados$Lml[m],dados$Lmax[m],dados$Emin[m],dados$Eml[m],dados$Emax[m]),probs=.95)
+}
+dados$Magnitude[dados$Severity=="High" & dados$Duration=="Long"]<-"Very High"
+dados$Magnitude[dados$Severity=="High" & dados$Duration=="Medium"]<-"High"
+dados$Magnitude[dados$Severity=="High" & dados$Duration=="Short"]<-"Medium"
+dados$Magnitude[dados$Severity=="Medium" & dados$Duration=="Long"]<-"High"
+dados$Magnitude[dados$Severity=="Medium" & dados$Duration=="Medium"]<-"Medium"
+dados$Magnitude[dados$Severity=="Medium" & dados$Duration=="Short"]<-"Low"
+dados$Magnitude[dados$Severity=="Low" & dados$Duration=="Long"]<-"Medium"
+dados$Magnitude[dados$Severity=="Low" & dados$Duration=="Medium"]<-"Low"
+dados$Magnitude[dados$Severity=="Low" & dados$Duration=="Short"]<-"Very Low"
+```
+
