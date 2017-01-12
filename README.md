@@ -1,0 +1,2 @@
+# Risk-Assessment-2015
+This small project aimed to assess the risk of Bovine Respiratory Disease (BRD) in calves and the consequences to these animals’ welfare. The main objectives were: describe risk factors of BRD and quantify their role on the development of the disease; suggest some risk management measures to minimize incidence of BRD; discuss the role of BRD in animal welfare. The report was written in R Markdown and the risk factors analysis used R packages: “mc2d”, “ggplot2” and “dplyr”.
